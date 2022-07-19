@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UniSwap</string>
+    <string name="asset_statements">
+                [{
+            \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+            \"target\": {
+                \"namespace\": \"web\",
+                \"site\": \"https://app.uniswap.org/\"}
+        }
+        ]
+    </string>
+    <string name="provider_authority">com.google.browser.examples.twa_basic.fileprovider</string>
+
+</resources>
